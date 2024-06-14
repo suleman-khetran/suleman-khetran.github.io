@@ -1,0 +1,96 @@
+site_name: Muhammad Suleman Khetran
+nav:
+  - Home: index.md
+  # - About: en/about.md
+  - About: about.md
+  # - Experiance: AdminPage.md
+  # - Projects: ErrorPage.md
+  # - Academics: SemiAutoMode.md
+  # - Refrences: ServiceMode.md
+  # - Logs: Logs.md
+
+# \docs\assets\image\sk.png
+# docs/assets/image/
+theme: 
+  name: material
+  logo: assets/image/sk.png
+  favicon: assets/image/sk.ico
+  features:
+    - navigation.tabs
+    # - navigation.instant
+    # - navigation.path
+    # - navigation.indexes
+    # - search.suggest
+    # - content.action.edit
+    # - content.action.view
+  icon:
+    previous: fontawesome/solid/angle-left
+    next: fontawesome/solid/angle-right
+    top: fontawesome/solid/angle-up
+    menu: fontawesome/solid/angle-down
+  palette:
+    # primary: teal
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      primary: teal
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: blue grey
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+    # scheme: default
+extra_css:
+  - "extra.css"
+  
+
+plugins:
+  - search
+  # - glightbox:
+  #     touchNavigation: true
+  #     loop: false
+  #     effect: zoom
+  #     slide_effect: slide
+  #     width: 100%
+  #     height: auto
+  #     zoomable: true
+  #     draggable: true
+  #     skip_classes:
+  #       - custom-skip-class-name
+  #     auto_caption: false
+  #     caption_position: bottom
+
+  # - i18n:
+  #     docs_structure: suffix
+  #     languages:
+  #       - locale: en
+  #         default: true
+  #         name: English
+  #         build: true
+        # - locale: fr
+        #   name: Français
+        #   build: true
+          # theme:
+          #   palette:
+          #     primary: red
+          # nav_translations:
+          #   Home: index.md
+          #   Getting Started: Démarrage Rapide
+          #   Plugins Compatibility: Compatibilité des plugins
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - toc
