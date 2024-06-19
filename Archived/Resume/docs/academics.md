@@ -2,7 +2,7 @@ Under construction 😄
 
 
 <!-- [Next](/Academics){ .md-button }  -->
-[Back](/Projects){ .md-button }
+[Back](/projects){ .md-button }
 
 ### Where to find me
 

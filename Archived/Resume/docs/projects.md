@@ -3,7 +3,7 @@ Under construction 😄
 
 
 
-[Next](/Academics){ .md-button } [Back](/Experiance){ .md-button }
+[Next](/academics){ .md-button } [Back](/experiance){ .md-button }
 
 ### Where to find me
 

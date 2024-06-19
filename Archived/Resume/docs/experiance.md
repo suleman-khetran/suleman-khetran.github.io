@@ -3,7 +3,7 @@ Under construction 😄
 
 
 
-[Next](/Projects){ .md-button } [Back](/About){ .md-button }
+[Next](/projects){ .md-button } [Back](/about){ .md-button }
 
 ### Where to find me
 
