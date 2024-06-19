@@ -1,0 +1,22 @@
+-Machine Learning, AI
+-Experienced in Python, C++, Javascript, Jquery, HTML, CSS
+-Linux operating system knowledge, developed applications on embedded linux (in Yocto)
+-Experienced in MS SQL, SQLite, Postgre SQL,Mysql databases
+-Experienced in bash script
+-Experienced in the Python Flask framework, knowledgeable with the Django framework
+-Knowledge of C, C#, Java languages
+-Experienced in Git versioning system
+-Experienced in Github and GitLab repository applications
+-Experienced in Docker
+-Experienced in Restful APIs
+-Experienced in TCP/IP, OPC UA, Bluetooth, UDP, MQTT, HTTP, HTTPS, websocket, Modbus, Ocpp
+-Knowledge of Clean Code and SOLID Software principles 
+
+
+
+Automatic Multi-storey Car Parking System Software
+Parkule --> https://www.otomatik.com.tr/TR/53-Urunler/322-Tam-Otomatik-Otopark-Sistemleri/1714-Parkule/
+This project is a multi-storey car park project. Each installed multi-storey car park system can have a different number of rooms or a different number of parking spaces. Accordingly, an object oriented based dynamic project has been developed. In multi-storey car park systems, there are entrance rooms, floors where vehicles can park, elevators and carriers. Each room has a PLC. There are OPC communication between PLC and python and also interfaces used by the user. TCP/IP communication is used between the interface and python. All system information can be followed from the interface and the system can be managed through the interface. The interface is also used as SCADA.
+
+Parkonfor --> https://www.otomatik.com.tr/TR/53-Urunler/323-Kuyulu-Otopark-Sistemleri/1309-Parkonfor-111/
+In this project, there are only 3 floors and there are 3 side-by-side floors. The whole system can be controlled on Raspberry pi4 and all sensor and fault information can be seen from this interface. Many fields such as system information, door information, user information, remote control information can be accessed. The interface is also used as SCADA.

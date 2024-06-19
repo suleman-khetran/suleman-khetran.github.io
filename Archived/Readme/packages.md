@@ -10,6 +10,7 @@
 
 [MkDocs Plugins (neoteroi.dev)](https://www.neoteroi.dev/mkdocs-plugins/)
 
+https://gsap.com/cheatsheet
 
 ---
 

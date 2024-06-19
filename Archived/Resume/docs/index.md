@@ -1,34 +1,129 @@
 # Muhammad Suleman Khetran
+[![](https://visitcount.itsvg.in/api?id=suleman-khetran&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- ![](https://komarev.com/ghpvc/?username=suleman-khetran&color=green) -->
 
-  ![](https://img.shields.io/badge/Muhammad%20Suleman-Khetran-test?style=flat&logo=github&logoSize=large&labelColor=gray&color=blue) ![img](https://img.shields.io/github/stars/pandao/editor.md.svg)![](https://img.shields.io/github/forks/pandao/editor.md.svg)![](https://img.shields.io/github/tag/pandao/editor.md.svg)![](https://img.shields.io/github/release/pandao/editor.md.svg)![](https://img.shields.io/bower/v/editor.md.svg)
+  ![](https://img.shields.io/badge/Muhammad%20Suleman-Khetran-test?style=flat&logo=github&logoSize=large&labelColor=gray&color=blue) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
+   <!-- ![img](https://img.shields.io/github/stars/pandao/editor.md.svg)
+   ![](https://img.shields.io/github/forks/pandao/editor.md.svg) -->
 
+
+<!-- termynal -->
+
+```
 # In a nutshell
+$ Muhammad_Suleman_Khetran --help
+Description:
+  An automation engineer with extensive R&D experience in
+  data engineering and control systems
+Options:
+  -h, --help                 Can help in OpenCV projects, programming 
+                             PLCs and commissioning of industries.
 
-Analytical, energetic, and detail-oriented automation engineer worked in R&D department for `data engineering` and `industrial control system` integrated with ERP and MES systems. Expert in `programming`, `industrial commissioning` and testing of automatic robotic car parking system and payment management system. **4+** years of experience in Python, C++, .Net, JavaScript, Delphi, SQL, Lua, Docker and NodeJS. Experience in PLC (Siemens S-7, Delta, Lenze, Beckhoff, GMT), SCADA (self-created through OPC using Python and JavaScript), HMI (Lenze p300, Delta DOP-107BV, Siemens KTP700), Motor Driver (Siemens, Delta, Lenze). Aspire to contribute expertise in the programming and automation field.
+  -d, --domain               Programming, IoT, ERP, and MES frameworks.
 
-## Things I code with
+  -e, --expertise            Standalone projects, PLCs, electronics
+                             circuits and commissioning.
 
-[](https://github.com/thmsgbrt#things-i-code-with)
+  -v, --Version              5+ years of R&D and Industrial experience
+                             in programming PLCs, SCADA,
+                             HMIs, and motor drivers
+```
 
-[![React](https://camo.githubusercontent.com/fa7c4294c987f56c6bcae98942266f5264f81f9abf5bb9da77ae69aefdcfc94a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/fa7c4294c987f56c6bcae98942266f5264f81f9abf5bb9da77ae69aefdcfc94a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465) [![Webpack](https://camo.githubusercontent.com/234d66fb111d657420f34555dbe27d473da1e67ef9100d49d8947994e9a9f435/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5765627061636b2d3844443646393f7374796c653d666c61742d737175617265266c6f676f3d7765627061636b266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/234d66fb111d657420f34555dbe27d473da1e67ef9100d49d8947994e9a9f435/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5765627061636b2d3844443646393f7374796c653d666c61742d737175617265266c6f676f3d7765627061636b266c6f676f436f6c6f723d7768697465) [![Docker](https://camo.githubusercontent.com/6cb5d58cd80680cae16dfdaf3bf18f5e291f6c1489cf43462476cf1589efd204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3436613266313f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/6cb5d58cd80680cae16dfdaf3bf18f5e291f6c1489cf43462476cf1589efd204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3436613266313f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465) [![github actions](https://camo.githubusercontent.com/4f8210669c113b24c8b6dae514e63df3f10aa8b5fa1142df5a6eaf0e7e421c7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875625f416374696f6e732d3230383846463f7374796c653d666c61742d737175617265266c6f676f3d6769746875622d616374696f6e73266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/4f8210669c113b24c8b6dae514e63df3f10aa8b5fa1142df5a6eaf0e7e421c7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875625f416374696f6e732d3230383846463f7374796c653d666c61742d737175617265266c6f676f3d6769746875622d616374696f6e73266c6f676f436f6c6f723d7768697465) [![Google Cloud Platform](https://camo.githubusercontent.com/6dd9b78a9a59f20f33a555480b6e5a2c5e51bef5696cd7f0a6f8bfc090bb4054/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476f6f676c655f436c6f75645f506c6174666f726d2d3161373365383f7374796c653d666c61742d737175617265266c6f676f3d676f6f676c652d636c6f7564266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/6dd9b78a9a59f20f33a555480b6e5a2c5e51bef5696cd7f0a6f8bfc090bb4054/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476f6f676c655f436c6f75645f506c6174666f726d2d3161373365383f7374796c653d666c61742d737175617265266c6f676f3d676f6f676c652d636c6f7564266c6f676f436f6c6f723d7768697465) [![TypeScript](https://camo.githubusercontent.com/fc531b7ec44d5eb08d44dd57078a31ef6f3357bfd40ed63a86b9eab811b8b7ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/fc531b7ec44d5eb08d44dd57078a31ef6f3357bfd40ed63a86b9eab811b8b7ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465) [![Insomnia](https://camo.githubusercontent.com/d0ea7d34e62fe1b2be4b3b5c3299244af30197318af93fe9640e823cf108b380/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e736f6d6e69612d3538343942453f7374796c653d666c61742d737175617265266c6f676f3d696e736f6d6e6961266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/d0ea7d34e62fe1b2be4b3b5c3299244af30197318af93fe9640e823cf108b380/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e736f6d6e69612d3538343942453f7374796c653d666c61742d737175617265266c6f676f3d696e736f6d6e6961266c6f676f436f6c6f723d7768697465) [![Apollo](https://camo.githubusercontent.com/38d4cb4e8c998436a5893bd1fba727b595646cca19093c4013cd7b61e1bff51a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d41706f6c6c6f2532304772617068514c2d3331314338373f7374796c653d666c61742d737175617265266c6f676f3d61706f6c6c6f2d6772617068716c266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/38d4cb4e8c998436a5893bd1fba727b595646cca19093c4013cd7b61e1bff51a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d41706f6c6c6f2532304772617068514c2d3331314338373f7374796c653d666c61742d737175617265266c6f676f3d61706f6c6c6f2d6772617068716c266c6f676f436f6c6f723d7768697465) [![Heroku](https://camo.githubusercontent.com/dc6a77b339d77e500384b0a6edba86882cdba92f450e1af544c4c8bc57f5a280/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4865726f6b752d3433303039383f7374796c653d666c61742d737175617265266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/dc6a77b339d77e500384b0a6edba86882cdba92f450e1af544c4c8bc57f5a280/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4865726f6b752d3433303039383f7374796c653d666c61742d737175617265266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465) [![redux](https://camo.githubusercontent.com/ff4ce3f023f28367db26fcca960568aa8c8c8fbaf419b9f255484e8830fdc0d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656475782d3736344142433f7374796c653d666c61742d737175617265266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/ff4ce3f023f28367db26fcca960568aa8c8c8fbaf419b9f255484e8830fdc0d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656475782d3736344142433f7374796c653d666c61742d737175617265266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465) [![ReactiveX](https://camo.githubusercontent.com/4a43b0cb5f056c17c2ef2e654f662ecd233f285c8564feb19b403544f7620937/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52784a732d4237313738433f7374796c653d666c61742d737175617265266c6f676f3d726561637469766578266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/4a43b0cb5f056c17c2ef2e654f662ecd233f285c8564feb19b403544f7620937/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52784a732d4237313738433f7374796c653d666c61742d737175617265266c6f676f3d726561637469766578266c6f676f436f6c6f723d7768697465) [![GraphQL](https://camo.githubusercontent.com/3c16cf910a0b573094a26df4655595f4ab44da588a3a4867c202fa97566f5c26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4772617068514c2d4531303039383f7374796c653d666c61742d737175617265266c6f676f3d6772617068716c266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/3c16cf910a0b573094a26df4655595f4ab44da588a3a4867c202fa97566f5c26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4772617068514c2d4531303039383f7374796c653d666c61742d737175617265266c6f676f3d6772617068716c266c6f676f436f6c6f723d7768697465) [![Sass](https://camo.githubusercontent.com/40a7829e7827c09f70eb03b3f3725aa0ad9520f22173f8858250ad29f94b1417/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d536173732d4343363639393f7374796c653d666c61742d737175617265266c6f676f3d73617373266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/40a7829e7827c09f70eb03b3f3725aa0ad9520f22173f8858250ad29f94b1417/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d536173732d4343363639393f7374796c653d666c61742d737175617265266c6f676f3d73617373266c6f676f436f6c6f723d7768697465) [![Styled Components](https://camo.githubusercontent.com/5a77ed0703ada1f9769891b043ce7cacd27e5dac2c4fad6fd799f4abe366273a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5374796c65645f436f6d706f6e656e74732d6462373039323f7374796c653d666c61742d737175617265266c6f676f3d7374796c65642d636f6d706f6e656e7473266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/5a77ed0703ada1f9769891b043ce7cacd27e5dac2c4fad6fd799f4abe366273a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5374796c65645f436f6d706f6e656e74732d6462373039323f7374796c653d666c61742d737175617265266c6f676f3d7374796c65642d636f6d706f6e656e7473266c6f676f436f6c6f723d7768697465) [![git](https://camo.githubusercontent.com/3d4a55e7d45198177f13f9f10c536edd2970c43d753759585e3391d04677e56d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/3d4a55e7d45198177f13f9f10c536edd2970c43d753759585e3391d04677e56d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465) [![NestJs](https://camo.githubusercontent.com/7b783d2e93fef4dae260f0fcbfbc33304769c53d317a211b5610f75a5761dc61/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6573744a732d6561323834353f7374796c653d666c61742d737175617265266c6f676f3d6e6573746a73266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/7b783d2e93fef4dae260f0fcbfbc33304769c53d317a211b5610f75a5761dc61/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6573744a732d6561323834353f7374796c653d666c61742d737175617265266c6f676f3d6e6573746a73266c6f676f436f6c6f723d7768697465) [![angular](https://camo.githubusercontent.com/76496f9153dab79a9a835bfc133e95be11ed15bcfdb109202f77d3e6eaa3dd90/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e67756c61722d4444303033313f7374796c653d666c61742d737175617265266c6f676f3d616e67756c6172266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/76496f9153dab79a9a835bfc133e95be11ed15bcfdb109202f77d3e6eaa3dd90/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e67756c61722d4444303033313f7374796c653d666c61742d737175617265266c6f676f3d616e67756c6172266c6f676f436f6c6f723d7768697465) [![npm](https://camo.githubusercontent.com/1fd2aacb73a7adf08ce72b0874d4e69812296d555bd13f4e98fab5d29d21a5ac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e504d2d4342333833373f7374796c653d666c61742d737175617265266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/1fd2aacb73a7adf08ce72b0874d4e69812296d555bd13f4e98fab5d29d21a5ac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e504d2d4342333833373f7374796c653d666c61742d737175617265266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465) [![html5](https://camo.githubusercontent.com/6010a85175edf5787bba645d2bdad7ec26f41aafce3f5a59569352de55deed74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/6010a85175edf5787bba645d2bdad7ec26f41aafce3f5a59569352de55deed74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465) [![Brave browser](https://camo.githubusercontent.com/b09a8920e0dc92634b275acc60747074d61d2e90f4fa59c2c77acb169295c4d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d42726176655f42726f777365722d4642353432423f7374796c653d666c61742d737175617265266c6f676f3d6272617665266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/b09a8920e0dc92634b275acc60747074d61d2e90f4fa59c2c77acb169295c4d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d42726176655f42726f777365722d4642353432423f7374796c653d666c61742d737175617265266c6f676f3d6272617665266c6f676f436f6c6f723d7768697465) [![Rollup](https://camo.githubusercontent.com/eae40dd55bb37b29dd30917aecd8d5ae29c56b768d90362d226385603f72ded6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d526f6c6c75702d4543344133463f7374796c653d666c61742d737175617265266c6f676f3d726f6c6c75702e6a73266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/eae40dd55bb37b29dd30917aecd8d5ae29c56b768d90362d226385603f72ded6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d526f6c6c75702d4543344133463f7374796c653d666c61742d737175617265266c6f676f3d726f6c6c75702e6a73266c6f676f436f6c6f723d7768697465) [![d3js](https://camo.githubusercontent.com/e3fade39c0d877fdaad41131801cea7295116456255555292c63b04cea1830ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d44332e6a732d4639413033433f7374796c653d666c61742d737175617265266c6f676f3d64332e6a73266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/e3fade39c0d877fdaad41131801cea7295116456255555292c63b04cea1830ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d44332e6a732d4639413033433f7374796c653d666c61742d737175617265266c6f676f3d64332e6a73266c6f676f436f6c6f723d7768697465) [![Prettier](https://camo.githubusercontent.com/5b4f50e6ab0e9ade665f62367bd0023e52e196cef383ec57b11ca03b72da4e7f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d50726574746965722d4637423933453f7374796c653d666c61742d737175617265266c6f676f3d7072657474696572266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/5b4f50e6ab0e9ade665f62367bd0023e52e196cef383ec57b11ca03b72da4e7f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d50726574746965722d4637423933453f7374796c653d666c61742d737175617265266c6f676f3d7072657474696572266c6f676f436f6c6f723d7768697465) [![MongoDB](https://camo.githubusercontent.com/bb133f9a48e0ad5238b369d19d4cfe1a950a59a3cf7f0d846a90272031488ca1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d3133616135323f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/bb133f9a48e0ad5238b369d19d4cfe1a950a59a3cf7f0d846a90272031488ca1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d3133616135323f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465) [![Nodejs](https://camo.githubusercontent.com/85f7d55972c294b45f6c2f5822b9c569f215a3ca256be9e3283c122a9f6e6fe1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/85f7d55972c294b45f6c2f5822b9c569f215a3ca256be9e3283c122a9f6e6fe1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465)
+<!-- ## In a nutshell
+An automation engineer with extensive R&D experience in `data engineering` and control systems, skilled in IoT, ERP, and MES frameworks. Expertise in programming `PLCs` and commissioning of industries. Proficient in Python, C++,, JavaScript, and more, with 5+ years of experience in PLCs, SCADA, HMIs, and motor drivers. -->
 
-### Spend Time with
 
-![img](https://img.shields.io/badge/Docker-test?style=for-the-badge&logo=Docker&logoSize=auto&color=white)  ![](https://img.shields.io/badge/Python-test?style=for-the-badge&logo=Python&logoSize=auto&color=white)  ![](https://img.shields.io/badge/JavaScript-test?style=for-the-badge&logo=JavaScript&logoSize=auto&color=white)  ![](https://img.shields.io/badge/C-test?style=for-the-badge&logo=C&logoSize=auto&color=white)  ![](https://img.shields.io/badge/Postgre%20SQL-test?style=for-the-badge&logo=postgresql&logoSize=auto&labelColor=white&color=white) ![](https://img.shields.io/badge/Image%20Processing-test?style=for-the-badge&logo=opencv&logoSize=large&labelColor=blue&color=white)![](https://img.shields.io/badge/Azure%20-test?style=for-the-badge&logo=Azure%20DevOps&logoSize=auto&color=white)
+💬 Ask me about: `industrial commisioning, machine learning or OpenCV.`
+
+📫 How to reach me:   [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suleman.0101@gmail.com)
+
+
+## 💻Tech Stack
+
+| Language | Frameworks| Hostings|Server & DevOps| DataBases| Design| Libraries|
+|----------|----------|----------|----------|------|-------|-------|
+![PLC](https://img.shields.io/badge/PLC-aa?style=for-the-badge&logo=stackshare&logoColor=white&labelColor=teal&color=teal)![Python](https://img.shields.io/badge/PYTHON-aa?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=%235F9EA0&color=%235F9EA0)  ![JavaScript](https://img.shields.io/badge/javascript-aa?style=for-the-badge&logo=javascript&logoColor=23F7DF1E&labelColor=%238FBC8F&color=%238FBC8F)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) |![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)![NodeJs]( https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)| ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  |![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)   | ![solidworks](https://img.shields.io/badge/solidworks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Babylon](https://img.shields.io/badge/Babylon.JS-qq?style=for-the-badge&logo=Babel&color=purple)![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050.svg?style=for-the-badge&logo=AutoCAD&logoColor=white) | ![Image Processing](https://img.shields.io/badge/Image%20Processing-test?style=for-the-badge&logo=opencv&logoSize=large&labelColor=blue&color=white)![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)![VMware]( https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)  |
+
+<!-- ## Hands on experience
+PLC, HMI and SCADA -->
+### _OS & IDEs_
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali_Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![VMware](https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white)
+![Visual_Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+![Notepad](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
+
+![AutoCAD](https://img.shields.io/badge/Babylon.js-BB464B.svg?style=for-the-badge&logo=babylondotjs&logoColor=white)
+
 
 ## Projects
 
-[=0% "0%"]
-[=5% "5%"]
-[=25% "25%"]
-[=45% "45%"]
-[=65% "65%"]
-[=85% "85%"]
-[=100% "100%"]
+- Developing Nexus, the cross-platform, all-in-one, CharaChorder desktop app!
+
+Roles & Responsibilities:
+
+- Leading the Certified Technology Apps Development and Quality Engineering Team
+- Mentoring and training Developers and Quality Engineers
+- Planning and deciding the product roadmap
+
+Milestones Led:
+
+- Revamped Container, Helm Chart, Openshift, and Openstack software certifications
+- Revamped Red Hat partner onboarding flow and account management
+- Red Hat Enterprise Linux 8,9 certification
+- Openshift 4.11, CNI, CSI, CSF certification
+- Openstack certification
+- Red Hat Partner SFTP
+- Multiarch Container Certification
 
 ```
 Disclosed soon
 ```
+
+
+
+### Activities
+
+<!-- 🌞 Morning  
+🌆 Daytime  
+🌃 Evening  
+🌙 Night    -->
+
+🕑︎ Time Zone: Asia/Istanbul 
+
+#### 💬 Daily spent time:
+
+| Language | Time | Percentage | Data |
+|----------|----------|----------|----------|
+Python   |   2 hrs 54 mins | ██████████░░░░░░░░░░░░░░░ |  40.81 %|    
+C++      |   2 hrs 29 mins | █████████░░░░░░░░░░░░░░░░ |  34.89 %|   
+C        |  29 mins        | ██░░░░░░░░░░░░░░░░░░░░░░░ |  07.00 %|   
+JSON     |  20 mins        | █░░░░░░░░░░░░░░░░░░░░░░░░ |  04.81 %|   
+Bash     |  15 mins        | █░░░░░░░░░░░░░░░░░░░░░░░░ |  03.72 %| 
+
+#### 🐱‍💻 Projects: 
+
+| Project | Time | Percentage | Data |
+|---------|------|-----------|-------|
+swarm_mission | 3 hrs 32 mins |  ████████████░░░░░░░░░░░░░|   49.65 % |    
+sybilis       | 2 hrs 53 mins |  ██████████░░░░░░░░░░░░░░░|   40.47 % |   
+wardn         | 15 mins       |  █░░░░░░░░░░░░░░░░░░░░░░░░|   03.65 % |   
+omakub        | 14 mins       |  █░░░░░░░░░░░░░░░░░░░░░░░░|   03.28 % |   
+swarm_mocks   | 12 mins       |  █░░░░░░░░░░░░░░░░░░░░░░░░|   02.84 % |   
+
+```
+From: 16 July 2020 - To: 15 June 2024
+
+Total Time: 1,679 hrs 31 mins
+```
+
+
+[Next](/About){ .md-button }
+
 
 ### Where to find me
 
@@ -36,14 +131,40 @@ Disclosed soon
 
 [![Github](https://camo.githubusercontent.com/2a822909e8b8c12ecaddf706efc32e83a8e61609e1eb1793f31d9101ed38a954/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465)](https://github.com/suleman-khetran) [![Twitter](https://camo.githubusercontent.com/e97449103b99db365dca0ff65af4a8b068a831136dc0a156239a71dff4223dba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333144413146322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465)](https://twitter.com/Suleman0101) [![LinkedIn](https://camo.githubusercontent.com/e8dbf62a04af86d46001864cd22338d8a8474486a0e976ec695580027c373c79/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/Suleman0101)
 
+
+
+<!-- [Back](/About){ .md-button } -->
+
+
+To the extent possible under law, [Suleman Khetran](https://suleman-khetran.github.io/) has waived all copyright and related or neighboring rights to this work.
+
+![img](https://licensebuttons.net/p/zero/1.0/88x31.png)
+
+
+
+
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=suleman-khetran&theme=onedark) -->
+
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=suleman-khetran&theme=onedark&title=Stars,Followers&row=2&column=3&margin-w=15&margin-h=15&no-bg=true) -->
+
+<!--![Alt text](assets/image/SK.png "Title") {: style="height:30px;width:50px" } -->
+
+<!-- (https://github.com//github-profile-trophy) -->
+
+
 <!-- ## License
 
 **Released under [MIT](/LICENSE) by [@suleman-khetran](https://github.com/suleman-khetran).** -->
 
 <!-- `_Social buttons_ ` -->
 
-<!--![Alt text](assets/image/SK.png "Title") {: style="height:30px;width:50px" } -->
+<!-- https://github-profile-trophy.vercel.app/?username=suleman-khetran&rank=S,AAA -->
+<!-- Analytical, energetic, and detail-oriented automation engineer worked in R&D department for `data engineering` and `industrial control system` integrated with ERP and MES systems. Expert in `programming`, `industrial commissioning` and testing of automatic robotic car parking system and payment management system. **4+** years of experience in Python, C++, .Net, JavaScript, Delphi, SQL, Lua, Docker and NodeJS. Experience in PLC (Siemens S-7, Delta, Lenze, Beckhoff, GMT), SCADA (self-created through OPC using Python and JavaScript), HMI (Lenze p300, Delta DOP-107BV, Siemens KTP700), Motor Driver (Siemens, Delta, Lenze). Aspire to contribute expertise in the programming and automation field. -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-```
-
-```
+<!-- 🔭 I’m currently working on machine learning, computer vision and deep learning projects.
+🌱 I’m currently learning deep learning and Natural Language Processing.
+👯 I’m looking to collaborate on AI projects and AI research.
+🤔 I’m looking for help with my Deep Learning research.
+💬 Ask me about machine learning, OpenCV or deep learning.
+📫 How to reach me: hemrajdhakal.ml@gma -->

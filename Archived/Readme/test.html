@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>GSAP Text Animation</title>
+</head>
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Lato&family=Source+Code+Pro&display=swap');
+    * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+    }
+    
+    body {
+        display: flex;
+        align-items: center;
+        min-height: 10vh;
+        background: #52575c;
+        color: #000000;
+    }
+    
+    h1 {
+        position: relative;
+        font-family: Lato, sans-serif;
+        font-size: 4vw;
+        font-weight: bold;
+        padding-left: 1vw;
+        overflow: hidden;
+    }
+    
+    h1 .hi {
+        display: inline-block;
+    }
+    
+    h1 .text {
+        font-family: 'Source Code Pro', sans-serif;
+        font-weight: normal;
+        padding-left: 1.2vw;
+    }
+    
+    h1 .box {
+        position: absolute;
+        bottom: 0;
+        display: inline-block;
+        background: teal;
+        height: 1vw;
+        z-index: -1;
+    }
+</style>
+
+<!-- https://cdn.jsdelivr.net/npm/sakana-widget@2.7.0/lib/sakana.min.css -->
+<!-- https://cdn.jsdelivr.net/npm/sakana-widget@2.7.0/lib/sakana.min.js -->
+<!-- https://cdnjs.cloudflare.com/ajax/libs/sakana-widget/2.7.0/sakana.min.css -->
+<!-- https://cdnjs.cloudflare.com/ajax/libs/sakana-widget/2.7.0/sakana.min.js -->
+
+<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sakana-widget@2.7.0/lib/sakana.min.css" /> -->
+<link rel="stylesheet" href="sakana.css" />
+<div id="sakana-widget"></div>
+<script>
+    function initSakanaWidget() {
+        new SakanaWidget().mount('#sakana-widget');
+    }
+</script>
+<!-- <script async onload="initSakanaWidget()" src="./sakana.js"></script> -->
+<script async onload="initSakanaWidget()" src="sakana2.min.js"></script>
+<!-- <script async onload="initSakanaWidget()" src="https://cdn.jsdelivr.net/npm/sakana-widget@2.7.0/lib/sakana.min.js"></script> -->
+
+<h1>
+    <span class="box"></span><span class='hi'>Hi, I'm </span><span class="text"></span><span class="cursor">_</span>
+</h1>
+<div style="display: flex;position: absolute; ">
+    <span style="display: inline; position: relative;height: 8pc;top: 9pc;left: 8pc; transform: rotate(-25deg); font-weight: bolder; font-size: large;font-style: italic; font-family: cursive">Pull my ear</span>
+    <img src="./arrow2.png" style="display: flex; position: absolute; height: 6pc;top: 6pc; left: 9pc; transform: rotate(-10deg); " alt="">
+
+</div>
+<!-- <a href="./381-3814424_click-me-png.png"></a> -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.4.2/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.4.2/TextPlugin.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.4.2/EasePack.min.js"></script>
+<script>
+    const words = ["Suleman Khetran.", "An Engineer.", "A Developer."]
+
+    let cursor = gsap.to('.cursor', {
+        opacity: 0,
+        ease: "power2.inOut",
+        repeat: -1
+    })
+    let masterTl = gsap.timeline({
+        repeat: -1
+    }).pause()
+    let boxTl = gsap.timeline()
+
+    boxTl.to('.box', {
+            duration: 1,
+            width: "12vw",
+            delay: 0.5,
+            ease: "power4.inOut"
+        })
+        .from('.hi', {
+            duration: 1,
+            y: "7vw",
+            ease: "power3.out"
+        })
+        .to('.box', {
+            duration: 1,
+            height: "7vw",
+            ease: "elastic.out",
+            onComplete: () => masterTl.play()
+        })
+        .to('.box', {
+            duration: 2,
+            autoAlpha: 0.7,
+            yoyo: true,
+            repeat: -1,
+            ease: "rough({ template: none.out, strength:  1, points: 20, taper: 'none', randomize: true, clamp: false})"
+        })
+    words.forEach(word => {
+        let tl = gsap.timeline({
+            repeat: 1,
+            yoyo: true,
+            repeatDelay: 1
+        })
+        tl.to('.text', {
+            duration: 1,
+            text: word
+        })
+        masterTl.add(tl)
+    })
+</script>
+<!-- <script src="app.js"></script>  -->
+</body>
+
+</html>

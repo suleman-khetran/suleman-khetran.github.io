@@ -1,11 +1,11 @@
 site_name: Muhammad Suleman Khetran
 nav:
   - Home: index.md
-  # - About: en/about.md
   - About: about.md
-  # - Experiance: AdminPage.md
-  # - Projects: ErrorPage.md
-  # - Academics: SemiAutoMode.md
+  - Experiance: experiance.md
+  - Projects: projects.md
+  - Academics: academics.md
+  # - About: en/about.md
   # - Refrences: ServiceMode.md
   # - Logs: Logs.md
 
@@ -17,10 +17,10 @@ theme:
   favicon: assets/image/sk.ico
   features:
     - navigation.tabs
+    - search.suggest
     # - navigation.instant
     # - navigation.path
     # - navigation.indexes
-    # - search.suggest
     # - content.action.edit
     # - content.action.view
   icon:
@@ -31,10 +31,10 @@ theme:
   palette:
     # primary: teal
     # Palette toggle for automatic mode
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/brightness-auto
-        name: Switch to light mode
+    # - media: "(prefers-color-scheme)"
+    #   toggle:
+    #     icon: material/brightness-auto
+    #     name: Switch to light mode
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -53,11 +53,12 @@ theme:
         name: Switch to system preference
     # scheme: default
 extra_css:
+  - css/neoteroi-mkdocs.css
   - "extra.css"
   
-
 plugins:
   - search
+  - termynal
   # - glightbox:
   #     touchNavigation: true
   #     loop: false
@@ -91,6 +92,10 @@ plugins:
           #   Plugins Compatibility: Compatibilité des plugins
 
 markdown_extensions:
+  - neoteroi.timeline
   - attr_list
   - md_in_html
   - toc
+
+copyright: |
+ &copy 2024 <a href="https://github.com/suleman-khetran" target="_blank" rel="noopener">Suleman Khetran</a>
