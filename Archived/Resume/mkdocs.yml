@@ -18,16 +18,34 @@ theme:
   features:
     - navigation.tabs
     - search.suggest
-    # - navigation.instant
-    # - navigation.path
-    # - navigation.indexes
-    # - content.action.edit
-    # - content.action.view
+    - navigation.instant
+    - navigation.instant.progress
+    - content.tabs.link
+    - navigation.path
+    - navigation.indexes
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate 
+    # - content.code.annotate # (1)
   icon:
+    admonition:
+      note: fontawesome/solid/note-sticky
+      abstract: fontawesome/solid/book
+      info: fontawesome/solid/circle-info
+      tip: fontawesome/solid/bullhorn
+      success: fontawesome/solid/check
+      question: fontawesome/solid/circle-question
+      warning: fontawesome/solid/triangle-exclamation
+      failure: fontawesome/solid/bomb
+      danger: fontawesome/solid/skull
+      bug: fontawesome/solid/robot
+      example: fontawesome/solid/flask
+      quote: fontawesome/solid/quote-left
     previous: fontawesome/solid/angle-left
     next: fontawesome/solid/angle-right
     top: fontawesome/solid/angle-up
     menu: fontawesome/solid/angle-down
+
   palette:
     # primary: teal
     # Palette toggle for automatic mode
@@ -54,7 +72,7 @@ theme:
     # scheme: default
 extra_css:
   - css/neoteroi-mkdocs.css
-  - "extra.css"
+  # - "extra.css"
   
 plugins:
   - search
@@ -92,10 +110,28 @@ plugins:
           #   Plugins Compatibility: Compatibilité des plugins
 
 markdown_extensions:
+  - pymdownx.superfences
   - neoteroi.timeline
   - attr_list
   - md_in_html
   - toc
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true
+# hooks:
+#   - my_hooks.py
+# extra:
+#     unit_price: 10
 
 copyright: |
  &copy 2024 <a href="https://github.com/suleman-khetran" target="_blank" rel="noopener">Suleman Khetran</a>

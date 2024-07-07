@@ -1,6 +1,65 @@
-Under construction 😄
+## 🎓 __Educational Degrees__
+=== "Master"
+    ```
+    University: Kocaeli University
+    Degree: Master of Electrical Engineering
+    Years: 2018-2022
+    Thesis: Efficient Fault Detection Technique in Power System by
+    Machine Learning using Fault Indicator Patterns.
+    ```
+
+=== "Master Exchange"
+    ```
+    University: University of Coimbra
+    Degree: Master of Electrical Engineering
+    Years: 2019-2020
+    Dissertation: Data-Driven principle model free fault detection by
+    polynomial regression and CART classifier.
+    ```
+
+=== "Bachelor"
+    ```
+    University: University of Coimbra
+    Degree: Master of Electrical Engineering
+    Years: 2011-2015
+    Final Year Project: Long Range Signal Amplifier using Discrete Components.
+    ```
+## 📖 __Publications__
+<div class="grid cards" markdown>
+
+-   📓__ISBN: 978-605-71156-0-7__
+  
+    __Title:__ **[`Efficient Fault Detection Technique in Power System by Machine Learning using Fault Indicator Patterns`](https://www.icomnas.org/wp-content/uploads/2021/12/icenss-Ozet-Kitapcigi-2-1.pdf#page=34){:target="_blank"}**
+
+    __Journal:__ [`ICOMNAS`](https://www.bidgeder.org/kongreler/){:target="_blank"} , Ankara/Turkey
+    
+    __Year:__  Dec 01-02, 2021
 
 
+-   📓__ISBN: 978-605-81050-0-3__
+    
+    __Title:__ **[`Efficient Jamming of Electromagnetic Spectrum of Frequency Modulation Technique`](https://sciencecon.org/2018-2/){:target="_blank"}**
+    
+    __Journal:__ [`İzmir Kâtip Çelebi Üniversitesi`](https://acikerisim.ikcu.edu.tr/yayin/1741093&dil=3&q=){:target="_blank"}
+
+    __Year:__  May 04-05, 2018
+!!! note    
+    [Click here for ORCID Portal](https://orcid.org/0000-0002-5983-3555)
+
+<!-- -   :material-format-font:{ .lg .middle } __Made to measure__
+    ---
+    ==Change== the colors, fonts, language, icons, logo and more with a few lines
+-   :material-scale-balance:{ .lg .middle } __Open Source, MIT__
+    ---
+    Material for MkDocs is licensed under MIT and available on [GitHub]
+    [:octicons-arrow-right-24: License](#)
+    [:octicons-arrow-right-24: Getting started](#)
+    [:octicons-arrow-right-24: Customization](#) -->
+
+
+</div> 
+
+<!-- https://orcid.org/0000-0002-5983-3555 -->
 <!-- [Next](/Academics){ .md-button }  -->
 [Back](/projects){ .md-button }
 
@@ -13,3 +72,4 @@ Under construction 😄
 To the extent possible under law, [Suleman Khetran](https://suleman-khetran.github.io/) has waived all copyright and related or neighboring rights to this work.
 
 ![img](https://licensebuttons.net/p/zero/1.0/88x31.png)
+https://lottie.host/embed/a656e623-b7ea-487a-a401-e061a71f740c/YSHgm7w7sS.json

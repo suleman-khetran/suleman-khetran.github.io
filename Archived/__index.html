@@ -3,25 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Muhammad Suleman</title>
+    <title>Document</title>
 </head>
-<style>
-
-</style>
-<script>
-</script>
 
 <body>
-    <div>
-        <span>
-        <H1>Muhammad Suleman</H1>
-    </span>
-        <div>
-            <h2>
-                Site underconstruction
-            </h2>
-        </div>
-    </div>
+    <div id="date"></div>
 </body>
+<script>
+    var today = new Date()
+    var past = new Date('2020-6-23')
+    var difdt = new Date(new Date() - past);
+    var year = today.getUTCFullYear() - past.getUTCFullYear()
+    var month = difdt.getMonth()
+    var day = difdt.getDate()
+    var d = document.getElementById("date").innerHTML = year + " Years " + month + " Months ";
+    // var d = document.getElementById("date").innerHTML = new Date().toISOString().slice(0, 4) - 2024
+</script>
 
 </html>
