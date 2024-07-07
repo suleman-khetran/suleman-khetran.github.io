@@ -24,6 +24,9 @@
     Years: 2011-2015
     Final Year Project: Long Range Signal Amplifier using Discrete Components.
     ```
+
+![img](https://lottie.host/embed/a656e623-b7ea-487a-a401-e061a71f740c/YSHgm7w7sS.json)
+
 ## 📖 __Publications__
 <div class="grid cards" markdown>
 
@@ -72,4 +75,5 @@
 To the extent possible under law, [Suleman Khetran](https://suleman-khetran.github.io/) has waived all copyright and related or neighboring rights to this work.
 
 ![img](https://licensebuttons.net/p/zero/1.0/88x31.png)
-https://lottie.host/embed/a656e623-b7ea-487a-a401-e061a71f740c/YSHgm7w7sS.json
+
+<!-- https://lottie.host/embed/a656e623-b7ea-487a-a401-e061a71f740c/YSHgm7w7sS.json -->

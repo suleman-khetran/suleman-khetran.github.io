@@ -18,7 +18,7 @@ Muhammad Suleman is an analytical and detail-oriented automation engineer worked
 
 
 [Back](/){ .md-button }
-[Next](/experiance){ .md-button }
+[Next](/experience){ .md-button }
 
 ### Where to find me
 

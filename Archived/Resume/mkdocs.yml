@@ -2,7 +2,7 @@ site_name: Muhammad Suleman Khetran
 nav:
   - Home: index.md
   - About: about.md
-  - Experiance: experiance.md
+  - Experiance: experience.md
   - Projects: projects.md
   - Academics: academics.md
   # - About: en/about.md

@@ -2,7 +2,7 @@
 
 
 
-[Back](/experiance){ .md-button }
+[Back](/experience){ .md-button }
 [Next](/academics){ .md-button } 
 
 ### Where to find me
